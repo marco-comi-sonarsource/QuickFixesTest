@@ -2,7 +2,7 @@ package com.mathiric.myproductd;
 
 import java.io.*;
 
-record Rspec6209() implements Serializable {
+/*lass Rspec6209() {
 
     @Serial
     private static final ObjectStreamField[] serialPersistentFields = new ObjectStreamField[0]; // Noncompliant
@@ -11,4 +11,4 @@ record Rspec6209() implements Serializable {
     private void writeObject(ObjectOutputStream out) throws IOException { // Noncompliant
 
     }
-}
+}*/

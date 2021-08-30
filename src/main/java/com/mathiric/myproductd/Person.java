@@ -17,11 +17,7 @@ final class Person { // Non compliant
 
     @Override
     public boolean equals(Object o) {
-        if (!(o instanceof Person newPerson )) {
-            return false;
-        } else{
-            return ((newPerson.age == this.age) && (newPerson.name.equals(this.name)));
-        }
+        return true;
     }
 
     @Override

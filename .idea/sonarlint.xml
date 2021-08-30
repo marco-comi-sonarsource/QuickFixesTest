@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SonarLintProjectSettings">
     <option name="bindingEnabled" value="true" />
-    <option name="projectKey" value="com.sonarsource.tooling.jira:analyzer-release-observer" />
+    <option name="projectKey" value="org.sonarsource.auth.bitbucket:sonar-auth-bitbucket-plugin" />
     <option name="serverId" value="Next" />
   </component>
 </project>

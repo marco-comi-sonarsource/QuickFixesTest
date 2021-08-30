@@ -1,34 +1,80 @@
-com/mathiric/myproductd/Rspec6216.java
- com.mathiric.myproductd.PersonAsRecord
- com.mathiric.myproductd.Rspec6216
-com/mathiric/myproductd/Rspec1612.java
- com.mathiric.myproductd.Rspec1612
-com/mathiric/common/MyException.java
- com.mathiric.common.MyException
+com/mathiric/myproductd/Rspec1195.java
+ com.mathiric.myproductd.Rspec1195
+com/mathiric/myproductd/Rspec2111.java
+ com.mathiric.myproductd.Rspec2111
 com/mathiric/myproductd/Car.java
  com.mathiric.myproductd.Car
-com/mathiric/myproductd/Rspec6209.java
- com.mathiric.myproductd.Rspec6209
 com/mathiric/myproductd/Rspec1128.java
  com.mathiric.myproductd.Rspec1128
 com/mathiric/myproductd/MyProduct.java
  com.mathiric.myproductd.MyProduct
-com/mathiric/common/MyRuntimeException.java
- com.mathiric.common.MyRuntimeException
-com/mathiric/myproductd/Rspec1155.java
- com.mathiric.myproductd.Rspec1155
-com/mathiric/myproductd/Person.java
- com.mathiric.myproductd.Person
-com/mathiric/myproductd/Rspec6207.java
- com.mathiric.myproductd.OtherPerson
- com.mathiric.myproductd.Rspec6207
-com/mathiric/myproductd/Rspec1656.java
- com.mathiric.myproductd.Rspec1656
-com/mathiric/myproductd/Rspec6201.java
- com.mathiric.myproductd.Rspec6201
-com/mathiric/myproductd/Rspec2293.java
- com.mathiric.myproductd.Rspec2293
-com/mathiric/common/Color.java
- com.mathiric.common.Color
+com/mathiric/myproductd/Rspec5164.java
+ com.mathiric.myproductd.Rspec5164
 com/mathiric/myproductd/Rspec1130.java
  com.mathiric.myproductd.Rspec1130
+com/mathiric/myproductd/Rspec2325.java
+ com.mathiric.myproductd.Rspec2325
+com/mathiric/myproductd/Rspec3252.java
+ com.mathiric.myproductd.Rspec3252
+ com.mathiric.myproductd.Rspec3252$Child
+com/mathiric/myproductd/Person.java
+ com.mathiric.myproductd.Person
+com/mathiric/myproductd/Rspec1186.java
+ com.mathiric.myproductd.Rspec1186
+com/mathiric/myproductd/Rspec3020.java
+ com.mathiric.myproductd.Rspec3020
+com/mathiric/myproductd/Rspec1116.java
+ com.mathiric.myproductd.Rspec1116
+com/mathiric/myproductd/Rspec1197.java
+ com.mathiric.myproductd.Rspec1197
+com/mathiric/myproductd/Rspec6201.java
+ com.mathiric.myproductd.Rspec6201
+com/mathiric/myproductd/Rspec4973.java
+ com.mathiric.myproductd.Rspec4973
+com/mathiric/common/UserSession.java
+ com.mathiric.common.UserSession
+com/mathiric/myproductd/Rspec2293.java
+ com.mathiric.myproductd.Rspec2293
+com/mathiric/myproductd/Rspec1858.java
+ com.mathiric.myproductd.Rspec1858
+com/mathiric/myproductd/Rspec1155.java
+ com.mathiric.myproductd.Rspec1155
+com/mathiric/myproductd/Rspec1905.java
+ com.mathiric.myproductd.Rspec1905
+com/mathiric/myproductd/Rspec1612.java
+ com.mathiric.myproductd.Rspec1612
+com/mathiric/common/MyException.java
+ com.mathiric.common.MyException
+com/mathiric/myproductd/Rspec1488.java
+ com.mathiric.myproductd.Rspec1488
+com/mathiric/myproductd/Rspec1107.java
+ com.mathiric.myproductd.Rspec1107
+com/mathiric/myproductd/Rspec1124.java
+ com.mathiric.myproductd.Rspec1124
+com/mathiric/myproductd/Rspec2446.java
+ com.mathiric.myproductd.Rspec2446
+com/mathiric/common/MyRuntimeException.java
+ com.mathiric.common.MyRuntimeException
+com/mathiric/myproductd/Rspec3984.java
+ com.mathiric.myproductd.Rspec3984
+com/mathiric/myproductd/Rspec1123.java
+ com.mathiric.myproductd.Rspec1123
+com/mathiric/myproductd/Rspec1168.java
+ com.mathiric.myproductd.Rspec1168
+com/mathiric/myproductd/Rspec1172.java
+ com.mathiric.myproductd.Rspec1172
+com/mathiric/myproductd/Rspec1656.java
+ com.mathiric.myproductd.Rspec1656
+com/mathiric/myproductd/Rspec3986.java
+ com.mathiric.myproductd.Rspec3986
+com/mathiric/myproductd/Rspec1161.java
+ com.mathiric.myproductd.Rspec1161
+ com.mathiric.myproductd.Rspec1161$Rspec1161Child
+com/mathiric/myproductd/Rspec2129.java
+ com.mathiric.myproductd.Rspec2129
+com/mathiric/common/Color.java
+ com.mathiric.common.Color
+com/mathiric/myproductd/Rspec2200.java
+ com.mathiric.myproductd.Rspec2200
+com/mathiric/myproductd/Rspec2153.java
+ com.mathiric.myproductd.Rspec2153

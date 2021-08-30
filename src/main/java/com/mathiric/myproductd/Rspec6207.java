@@ -1,4 +1,4 @@
-package com.mathiric.myproductd;
+/*package com.mathiric.myproductd;
 
 public class Rspec6207 {
 }
@@ -10,3 +10,4 @@ record OtherPerson(String name, int age) {
         return name;
     }
 }
+*/
